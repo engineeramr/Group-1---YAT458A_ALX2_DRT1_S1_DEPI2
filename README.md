@@ -1,4 +1,4 @@
-# 🚀 Group-1 Digital Marketing Project  
+#  Group-1 Digital Marketing Project  
 
 ![proAr](https://github.com/user-attachments/assets/6f1827e2-9e59-4428-8785-503340301ed0)  
 
