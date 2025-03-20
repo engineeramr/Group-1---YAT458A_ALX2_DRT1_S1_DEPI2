@@ -20,4 +20,16 @@ Our project focuses on utilizing **cutting-edge marketing techniques** to drive 
 ---
 
 ## 🎯 Our Project  
+**iChef** is a digital marketing project aimed at promoting an AI-driven recipe recommendation system. Our goal is to enhance brand visibility, engage users through personalized content, and drive conversions using cutting-edge marketing techniques.  
+
+## 📌 Target Audience  
+👨‍👩‍👧‍👦 **Home Cooks** – People looking for easy and quick recipes.  
+🥗 **Health Enthusiasts** – Users with specific dietary needs.  
+🌍 **Food Lovers** – Those who love discovering new dishes.  
+⏳ **Busy Professionals** – Individuals needing meal planning assistance. 
+
+## 🚀 Project Goals  
+🎯 **Increase brand awareness** through optimized digital marketing strategies.  
+🎯 **Improve user retention** by creating valuable and engaging content.  
+🎯 **Drive conversions** through effective ad campaigns and influencer partnerships.  
 
