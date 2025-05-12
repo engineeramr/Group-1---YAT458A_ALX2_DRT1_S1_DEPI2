@@ -1,7 +1,7 @@
 #  Group-1 Digital Marketing Project  
 
 ![proAr](https://github.com/user-attachments/assets/6f1827e2-9e59-4428-8785-503340301ed0)  
-![proAr](https://media.discordapp.net/attachments/367063115374002177/1352411959815049317/WhatsApp_Image_2025-03-20_at_23.41.46_9a457f33.jpg?ex=67ddeb49&is=67dc99c9&hm=fb900f91788e61ae4eea484a06b03932753ffc8b50c22072952c1171e13e9d0d&=&format=webp&width=960&height=960)  
+![proAr]([https://media.discordapp.net/attachments/367063115374002177/1352411959815049317/WhatsApp_Image_2025-03-20_at_23.41.46_9a457f33.jpg?ex=67ddeb49&is=67dc99c9&hm=fb900f91788e61ae4eea484a06b03932753ffc8b50c22072952c1171e13e9d0d&=&format=webp&width=960&height=960](https://drive.google.com/file/d/1mQxZS_LnxIAg973wXPOXRHFgSKo1rrwW/view?usp=sharing))  
 
 ## 📌 About Us  
 Welcome to **Group-1**! We are a passionate team working on our **Digital Marketing** graduation project, aiming to explore innovative strategies, data-driven insights, and creative campaigns to enhance online brand presence.  
