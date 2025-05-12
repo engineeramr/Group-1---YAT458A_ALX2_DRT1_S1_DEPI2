@@ -14,12 +14,13 @@ Our project focuses on utilizing **cutting-edge marketing techniques** to drive 
 ---
 
 ## 👥 Meet Our Team  
-🔹 **Amr Aly**  
-🔹 **Rahma Youssef**  
-🔹 **Rewaa Ahmed**  
-🔹 **Abdelrahman Hammad**  
-🔹 **Amr Khaled**  
-🔹 **Nada Aly**  
+🔹 **Amr Aly Abdel Aziz Mohamed**  
+🔹 **Rahma youssef salah eldin**  
+🔹 **Rewaa Ahmed Mohamed Harraz**  
+🔹 **Nada Mohi Eldeen Ali**  
+🔹 **Abdelrahman Ahmed Saeed**  
+🔹 **Amr Khaled abdel Mohsen**  
+
 
 ---
 
